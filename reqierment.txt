@@ -1,0 +1,7 @@
+ollama
+customtkinter
+ddgs
+requests
+deep-translator
+arabic_reshaper
+bidi
